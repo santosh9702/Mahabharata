@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html>
+    <title>MAHABHARATA</title>
+    <head>
+        
+      <style>
+        .button-container {
+            display: flex;
+            justify-content: space-between; /* Aligns items to the edges */
+            padding: 10px;
+        }
+        .button {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        .button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+    <body>
+       
+        <H1 style="text-align: center;color: rgb(255, 127, 176)";><strong>ಮಹಾಭಾರತ</strong></H1>
+
+        <style>
+            img {
+                display: block;
+                margin: 0 auto;
+            }
+            P {
+                text-indent: 50px;
+               padding-left: 40px;
+               padding-right: 50px;
+                
+            }
+        </style>
+        
+        <img src="Mahabharat.jpg" alt="" width="1200" height="500">
+                <p>ಮಹಾಭಾರತ ಭಾರತದ ಧಾರ್ಮಿಕ, ತಾತ್ವಿಕ ಹಾಗೂ ಪೌರಾಣಿಕ ಮಹಾಕಾವ್ಯಗಳಲ್ಲಿ ಒಂದು. ಅಲ್ಲದೇ ಇದನ್ನು ಅತಿ ಉದ್ದವಾದ ಮಹಾಕಾವ್ಯ ಎಂದು ವಿವರಿಸಲಾಗಿದೆ. ಇದು ಹಿಂದೂ ಧರ್ಮದ ಒಂದು ಮುಖ್ಯ ಪಠ್ಯವೂ ಹೌದು. ವಿಶ್ವ ಸಾಹಿತ್ಯದ ಸಾಧನೆಗಳಲ್ಲಿ ಒಂದೆಂದು ಪರಿಗಣಿತವಾಗಿರುವ ಮಹಾಭಾರತ ಭಾರತೀಯ ಜನರ ಮನಸ್ಸಿನಲ್ಲಿ ಆಳವಾಗಿ ಬೇರೂರಿದೆ. ಮಹಾಭಾರತ ಕಥೆ ಶಂತನು ಮಹಾರಾಜನಿಂದ ಆರಂಭವಾಗುತ್ತದೆ. ಸಂಪೂರ್ಣ ಮಹಾಭಾರತ ಒಂದು ಲಕ್ಷಕ್ಕೂ ಹೆಚ್ಚು ಶ್ಲೋಕಗಳನ್ನು ಒಳಗೊಂಡಿದ್ದು ಗ್ರೀಕ್‍ನ ಜನಪದ ಮಹಾಕಾವ್ಯಗಳಾದ ಇಲಿಯಡ್ ಮತ್ತು ಒಡಿಸ್ಸಿ - ಎರಡನ್ನೂ ಸೇರಿಸಿದರೂ ಮಹಾಭಾರತದ ಏಳನೇ ಒಂದು ಭಾಗದಷ್ಟು ಮಾತ್ರ ಆಗುತ್ತದೆ. ಮಹಾಭಾರತವು 18 ಪರ್ವ ಮತ್ತು  1 ಲಕ್ಷ ಶ್ಲೋಕಗಳನ್ನು ಒಳಗೊಂಡ ಅದ್ಭುತ ಮಹಾಕಾವ್ಯವಾಗಿದೆ.
+
+                    <p>ಮಹಾಭಾರತದಲ್ಲಿನ ಪ್ರಮುಖ ಕೃತಿಗಳು ಮತ್ತು ಕಥೆಗಳಲ್ಲಿ ಭಗವದ್ಗೀತೆ, ದಮಯಂತಿಯ ಕಥೆ, ಶಕುಂತಲೆಯ ಕಥೆ, ಪುರೂರವ ಮತ್ತು ಊರ್ವಶಿಯ ಕಥೆ, ಸಾವಿತ್ರಿ ಮತ್ತು ಸತ್ಯವಾನ್ ಕಥೆ, ಕಚ ಮತ್ತು ದೇವಯಾನಿಯ ಕಥೆ, ಋಷ್ಯಶೃಂಗನ ಕಥೆ ಮತ್ತು ರಾಮಾಯಣದ ಸಂಕ್ಷಿಪ್ತ ಆವೃತ್ತಿ, ಸಾಮಾನ್ಯವಾಗಿ ತಮ್ಮದೇ ಆದ ಕೃತಿಗಳೆಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ.
+                    
+                    ಮಹಾಭಾರತವು ವ್ಯಾಸ ಮುನಿಶ್ರೇಷ್ಠರಿಂದ ಮೂಲವಾಗಿ ರಚಿಸಲ್ಪಟ್ಟಿದೆ ಎಂದು ನಂಬಲಾಗಿದೆ. ಮಹಾಭಾರತವನ್ನು ಪಂಚಮವೇದವೆಂದು ಕರೆಯಲಾಗಿದೆ. ಶ್ರೀ ಕೃಷ್ಣನಿಂದ ಪಾರ್ಥನಾದ ಅರ್ಜುನನಿಗೆ ಉಪದೇಶಿಸಲ್ಪಟ್ಟ ಮಹಿಮಾನ್ವಿತವಾದ ಭಗವದ್ಗೀತೆಯನ್ನು ಮಹಾಭಾರತದ ಆತ್ಮ (ಅಂತರಾತ್ಮ) ಎನ್ನಲಾಗಿದೆ.</p>
+
+         <p><strong>ಪೀಠಿಕೆ:</strong></p>
+          <p>  ಮಹಾಭಾರತವು ಎರಡು ಪ್ರಮುಖ ಭಾರತೀಯ ಕಾವ್ಯಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ (ಇನ್ನು ಒಂದು ರಾಮಾಯಣ). ಇದು ಭಾರದ್ವಾಜ ಕುಲದ ವ್ಯಾಪಕ ಕಥಾನಕವನ್ನು ಹೊಂದಿದ್ದು, ಕೌರವರು ಮತ್ತು ಪಾಂಡವರು ಎಂಬ ಎರಡು ಕುಲಗಳ ನಡುವಿನ ಕಲಹವನ್ನು ಕುರಿತ ಕಥಾವಸ್ತುವಿನ ಮೇಲೆ ನಿರ್ದಿಷ್ಟವಾಗಿದೆ. ಕಾವ್ಯವು ಪ್ರಕಾರ, ಸಾಮಾನ್ಯ ಜೀವನದ ನಿಯಮಗಳು ಮತ್ತು ನೀತಿ-ತತ್ತ್ವದ ಕುರಿತಾದ ಮಹತ್ವದ ಬೋಧನೆಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.</p>
+            
+           <p> ಮಹಾಭಾರತವು ಸುಮಾರು 1,00,000 ಶ್ಲೋಕಗಳು ಹೊಂದಿದ್ದು, ಇದನ್ನು ವಿಶ್ವದ ಅತ್ಯಂತ ದೊಡ್ಡ ಮಹಾಕಾವ್ಯವೆಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ. ಈ ಕಾವ್ಯವು 18 ಪ್ರಮುಖ ಅಧ್ಯಾಯಗಳನ್ನು ಅಥವಾ "ಪರ್ವ"ಗಳನ್ನು ಹೊಂದಿದೆ. ಇದರ ಕೇಂದ್ರ ಕಥೆ ಕುರುಕ್ಷೇತ್ರದ ಯುದ್ಧದ ಸುತ್ತ ಹೆಣೆದಿದ್ದು, ಇದು ಪಾಂಡವರ ಮತ್ತು ಕೌರವರ ನಡುವಿನ ಶತ್ರುತ್ವವನ್ನು ತೋರಿಸುತ್ತದೆ.</p>
+            
+        <p><strong>ಪ್ರಮುಖ ಅಂಶಗಳು:</strong></p>
+        <p>ಮಹಾಭಾರತವು ಭಾರತೀಯ ಸಾಂಸ್ಕೃತಿಕ, ಧಾರ್ಮಿಕ, ಮತ್ತು ತತ್ತ್ವಶಾಸ್ತ್ರೀಯ ಪರಂಪರೆಯ ಮಹಾನ್ ಕಾವ್ಯಕೃತಿಯಾಗಿದೆ. ಇದರಲ್ಲಿ ಹಲವಾರು ಅಂಶಗಳು ಪ್ರಬಲವಾಗಿ ತೋರಿಸುತ್ತವೆ. ಈ ಮಹಾಕಾವ್ಯದ ಪ್ರಮುಖ ಅಂಶಗಳು ಈ ಕೆಳಗಿನಂತಿವೆ:</p>
+
+        <p><strong>1. ಕುರುಕ್ಷೇತ್ರ ಯುದ್ಧ</strong></p>
+
+        <p>ಮಹಾಭಾರತದ ಪ್ರಮುಖ ಕಥಾಸೂತ್ರವು ಪಾಂಡವರು ಮತ್ತು ಕೌರವರು ಎಂಬ ಇಬ್ಬರ ನಡುವೆ ನಡೆದ ಯುದ್ಧದ ಕಥೆಯಾಗಿದೆ. ಕುರುಕ್ಷೇತ್ರ ಯುದ್ಧವು ಪಾಂಡವ ರಾಜಕುಮಾರರು (ಧರ್ಮರಾಜ, ಭೀಮ, ಅರ್ಜುನ, ನಕುಲ, ಸಹದೇವ) ಮತ್ತು ಕೌರವ ರಾಜಕುಮಾರರು (ದುರ್ಯೋಧನ ಮತ್ತು ಅವನ 99 ಸಹೋದರರು) ನಡುವೆ ನಡೆಯುತ್ತದೆ.
+        ಈ ಯುದ್ಧವು ಧರ್ಮ ಮತ್ತು ಅಧರ್ಮದ ನಡುವಿನ ಸಂಕೀರ್ಣ ಸಂಧಾರಣೆಯಾಗಿ ಶಬ್ದಿತವಾಗುತ್ತದೆ.</p>
+
+        <p><strong>2. ಭಗವದ್ಗೀತೆ</strong></p> 
+
+        <p>ಮಹಾಭಾರತದ ಒಂದು ಅತ್ಯಂತ ಪ್ರಖ್ಯಾತ ಭಾಗವು ಭಗವದ್ಗೀತೆ ಆಗಿದೆ, ಇದು ಅರ್ಜುನನಿಗೆ ಭಗವಾನ್ ಕೃಷ್ಣನ ಉಪದೇಶದ ರೂಪವಾಗಿದೆ. ಭಗವದ್ಗೀತೆದಲ್ಲಿ ಧರ್ಮ, ಕರ್ಮ, ಭಕ್ತಿ, ಮತ್ತು ತತ್ವಶಾಸ್ತ್ರದ ವಿಚಾರಗಳನ್ನು ವಿವರಿಸಲಾಗುತ್ತದೆ.
+        ಅರ್ಜುನನ ಸಂಕಷ್ಟಕ್ಕೆ (ಯುದ್ಧದ ವೈಚಾರಿಕತೆ ಮತ್ತು ದಾರಿ ತಪ್ಪಿದ ಮನಸ್ಸಿಗೆ) ಉತ್ತರವಾಗಿ ಕೃಷ್ಣನು ಅವನಿಗೆ ಜೀವನದ ಗಾಢ ಸತ್ಯಗಳನ್ನು ಬೋಧಿಸುತ್ತಾನೆ.</p>
+
+        <p><strong>3. ಧರ್ಮ ಮತ್ತು ಅಧರ್ಮ</strong></p> 
+
+        <p>ಮಹಾಭಾರತವು ಧರ್ಮ ಮತ್ತು ಅಧರ್ಮದ ನಡುವಿನ ಸತತ ಹೋರಾಟದ ಚಿತ್ರಣವಾಗಿದೆ. ಇಲ್ಲಿ ಪಾಂಡವರು ಧರ್ಮವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ, ಮತ್ತು ಕೌರವರು ಅಧರ್ಮವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ.
+        ಧರ್ಮದ ಮಾರ್ಗದಲ್ಲಿ ನಡೆದು ಗೆಲ್ಲುವುದು ಮುಖ್ಯ ಸಂದೇಶವಾಗಿದೆ.</p>
+
+        <p><strong>4. ಪ್ರತಿ ಪಾತ್ರದ ಹಸ್ತದ ಕಥೆಗಳು</strong></p>  
+
+        <p>ಮಹಾಭಾರತವು ಬೃಹತ್ ಮಹಾಕಾವ್ಯವಾಗಿದ್ದು, ಇದರಲ್ಲಿರುವ ಪ್ರತಿಯೊಬ್ಬ ಪಾತ್ರವು ತನ್ನದೇ ಆದ ಕಥಾ ಹಂದರವನ್ನು ಹೊಂದಿದೆ. ಈ ಪಾತ್ರಗಳಲ್ಲಿ:
+        ಭೀಷ್ಮ: ಅಲೌಕಿಕ ಶಪಥ ಮತ್ತು ತ್ಯಾಗದ ಪ್ರತಿನಿಧಿ.
+        ದ್ರೌಪದಿ: ತಾಕತ್ತು, ತಾಳ್ಮೆ, ಮತ್ತು ಧರ್ಮದ ಮೇಲಿನ ನಂಬಿಕೆ.
+        ಕರ್ನ: ದಾನ, ವಿಶ್ವಾಸ, ಮತ್ತು ವಿಧಿಯ ನಿರ್ಣಯದ ಸಂಕೀರ್ಣತೆ.</p>
+
+        <p><strong>5. ಕೌರವ ಮತ್ತು ಪಾಂಡವ ಪ್ರತಿನಿಧಿಗಳು</strong></p>  
+
+        <p>ಕೌರವರು ಮತ್ತು ಪಾಂಡವರು ಒಂದೇ ಕುಟುಂಬದವ್ರು ಆದರೂ, ಅವರ ನಡುವಿನ ಅಸಮ್ಮತಿ ಮತ್ತು ಯುದ್ಧವು ವೈಕುಲ್ಯ ಮತ್ತು ಪಾತಕದ ಸಂದೇಶವನ್ನು ನೀಡುತ್ತದೆ.
+        ಪಾಂಡವರಲ್ಲಿ ಧರ್ಮರಾಜ (ಯುಧಿಷ್ಟಿರ) ಧರ್ಮದ ಸಂಕೇತ, ಭೀಮ ಬಲದ ಸಂಕೇತ, ಅರ್ಜುನ ವೀರತ್ವದ ಸಂಕೇತ, ನಕುಲ ಮತ್ತು ಸಹದೇವ ನಿಷ್ಠೆಯ ಸಂಕೇತ.</p>
+
+        <p><strong>6. ದ್ರೌಪದಿ ವಸ್ತ್ರಾಪಹರಣ ಮತ್ತು ಅವಮಾನ</strong></p> 
+
+        <p>ದ್ರೌಪದಿಯ ವಸ್ತ್ರಾಪಹರಣವು ಮಹಾಭಾರತದ ಅತ್ಯಂತ ಸಾರ್ಥಕ ಮತ್ತು ಆಕ್ರೋಶಭರಿತ ಘಟನೆಯಾಗಿ ಗುರುತಿಸಬಹುದು. ಇದು ಕುರುವಂಶದ ಕುಸಿತಕ್ಕೆ ಪ್ರಮುಖ ಕಾರಣವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸಿತು.
+        ಈ ಘಟನೆಯು ಧರ್ಮ ಮತ್ತು ನ್ಯಾಯದ ಮಾರ್ಗವನ್ನು ಮೀರಿ ದುಷ್ಟತೆಯನ್ನು ತೋರಿಸುತ್ತದೆ.</p>
+
+        <p><strong>7. ಕಥಾ ಗಾಢತೆ ಮತ್ತು ತಾತ್ವಿಕ ಸಂದೇಶಗಳು</strong></p>
+
+        <p>ಮಹಾಭಾರತವು ಕೇವಲ ಯುದ್ಧಕಥೆಯಲ್ಲ, ಇದು ಜೀವನದ ವಿವಿಧ ಆಯಾಮಗಳನ್ನು, ಆಧ್ಯಾತ್ಮಿಕತೆ, ತಾತ್ವಿಕತೆ, ಮಾನವೀಯ ಸಂಬಂಧಗಳು, ಮತ್ತು ಧಾರ್ಮಿಕ ಸಂಕೀರ್ಣಗಳನ್ನು ಅನಾವರಣಗೊಳಿಸುತ್ತದೆ.
+        ಯುದ್ಧದ ಮೂಲಕ ಮಾನವ ಧರ್ಮವನ್ನು ಪುನರ್ ಸ್ಥಾಪನೆ ಮಾಡುವ ಪ್ರಯತ್ನವನ್ನು ತೋರಿಸುತ್ತದೆ.</p>
+
+        <p><strong>8. ವಿಧಿಯ ಮಹತ್ವ</strong></p>
+
+        <p>ಮಹಾಭಾರತದಲ್ಲಿ ವಿಧಿಯ ಅವಶ್ಯಕತೆ ಮತ್ತು ಅದರ ನಿರ್ಣಯ ಪ್ರಬಲವಾಗಿದೆ. ಪಾತ್ರಗಳು ತಮ್ಮ ಹಿಂದಿನ ಕರ್ಮಗಳ ಫಲವನ್ನು ಅನುಭವಿಸುತ್ತಾರೆ, ಇದರಲ್ಲಿ ಅದೃಷ್ಟ, ವಿಧಿ, ಮತ್ತು ವ್ಯಕ್ತಿಯ ಕರ್ಮಗಳ ಸಂಬಂಧವನ್ನು ವಿವರಿಸಲಾಗುತ್ತದೆ.</p>
+
+        <p><strong>9. ಅಂತ್ಯವು ಮತ್ತು ಪುನರುತ್ಥಾನ</strong></p>
+
+        <p>ಮಹಾಭಾರತವು ಕುರುಕ್ಷೇತ್ರದ ಯುದ್ಧದ ಅಂತ್ಯದೊಂದಿಗೆ ಮುಗಿಯುವುದಿಲ್ಲ, ಇದರಿಂದ ತೀಕ್ಷ್ಣವಾದ ಸಾರ್ಥಕತೆ, ಮರುಜನ್ಮ, ಮತ್ತು ಪುನರುತ್ಥಾನದ ಕಲ್ಪನೆಗಳು ಪ್ರತಿಪಾದಿತವಾಗುತ್ತವೆ.
+        ಪಾಂಡವರು ಯುದ್ಧದ ನಂತರ ರಾಜಸಿಂಹಾಸನವನ್ನು ಕೈಗೆತ್ತಿಕೊಂಡರೂ, ಆಧ್ಯಾತ್ಮಿಕ ಮುಕ್ತಿ ಮತ್ತು ಜ್ಞಾನವೇ ಅಂತಿಮ ಗುರಿ ಎಂದು ತೋರಿಸುತ್ತದೆ.</p>
+
+        <p><strong>10. ಆಧ್ಯಾತ್ಮಿಕ ಮತ್ತು ಧಾರ್ಮಿಕ ನಿಟ್ಟಿನಲ್ಲಿ ಭರವಸೆ</strong></p>
+
+        <p>ಮಹಾಭಾರತವು ಆಧ್ಯಾತ್ಮಿಕ, ಧಾರ್ಮಿಕ ಹಾಗೂ ತಾತ್ವಿಕವಾಗಿ ನಿರ್ದಿಷ್ಟ ಚಿಂತನೆಗಳನ್ನು ಪ್ರತಿಪಾದಿಸುತ್ತದೆ, ವಿಶೇಷವಾಗಿ ಭಗವದ್ಗೀತೆ ಮೂಲಕ ಧರ್ಮಕ್ಕೆ ತಾರ್ಕಿಕ ಅರ್ಥವನ್ನು ಕೊಡುತ್ತದೆ.
+        ಮಹಾಭಾರತವು ಧರ್ಮ, ಯುದ್ಧ, ಸಂಬಂಧಗಳು, ಶೀಲ, ತ್ಯಾಗ ಮತ್ತು ಬದುಕಿನ ಹಲವು ಆಯಾಮಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುವ ಆಧಾರಭೂತ ಸ್ತಂಭವಾಗಿದೆ.</p>
+        
+        <h2>Mahabharata Episodes(ಮಹಾಭಾರತ ಸಂಚಿಕೆಗಳು)</h2>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .episode-list {
+            margin-bottom: 20px;
+        }
+        .navigation {
+            margin-top: 20px;
+        }
+        .navigation button {
+            margin: 5px;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Sidebar 
+    <aside class="sidebar">
+        <h2>Sidebar Menu</h2>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </aside>
+
+    <!-- Main content 
+    <div class="main-content">
+        <h1>Welcome to the Main Content Area</h1>
+        <p>This is the main content of the page. The sidebar is aligned to the left and can contain navigation links, advertisements, or other widgets.</p>
+    </div> -->
+
+<!-- <div class="episode-list">
+    <ul> -->
+       <a href="MAHABHARATA/Episode1.html">Episode 1</a>,
+       
+       <a href="MAHABHARATA/Episode2.html">Episode 2</a>,
+       
+       <a href="MAHABHARATA/Episode3.html">Episode 3</a>,
+       
+       <a href="MAHABHARATA/Episode4.html">Episode 4</a>,
+      
+       <a href="MAHABHARATA/Episode5.html">Episode 5</a>,
+       
+       <a href="MAHABHARATA/Episode6.html">Episode 6</a>,
+       
+       <a href="MAHABHARATA/Episode7.html">Episode 7</a>,
+       
+       <a href="MAHABHARATA/Episode8.html">Episode 8</a>,
+       
+       <a href="MAHABHARATA/Episode9.html">Episode 9</a>,
+       
+       <a href="MAHABHARATA/Episode10.html">Episode 10</a>,
+       
+       <a href="MAHABHARATA/Episode11.html">Episode 11</a>,
+       
+       <a href="MAHABHARATA/Episode12.html">Episode 12</a>,
+     
+       <a href="MAHABHARATA/Episode13.html">Episode 13</a>,
+      
+       <a href="MAHABHARATA/Episode14.html">Episode 14</a>,
+       
+       <a href="MAHABHARATA/Episode15.html">Episode 15</a>,
+      
+       <a href="MAHABHARATA/Episode16.html">Episode 16</a>,
+     
+       <a href="MAHABHARATA/Episode17.html">Episode 17</a>,
+       
+       <a href="MAHABHARATA/Episode18.html">Episode 18</a>,
+      
+       <a href="MAHABHARATA/Episode19.html">Episode 19</a>,
+      
+       <a href="MAHABHARATA/Episode20.html">Episode 20</a>,
+     
+       <a href="MAHABHARATA/Episode21.html">Episode 21</a>,
+     
+       <a href="MAHABHARATA/Episode22.html">Episode 22</a>,
+    
+       <a href="MAHABHARATA/Episode23.html">Episode 23</a>,
+    
+       <a href="MAHABHARATA/Episode24%20.html">Episode 24</a>,
+     
+       <a href="MAHABHARATA/Episode25.html">Episode 25</a>,
+    
+       <a href="MAHABHARATA/Episode26.html">Episode 26</a>,
+    
+       <a href="MAHABHARATA/Episode27.html">Episode 27</a>,
+      
+       <a href="MAHABHARATA/Episode28.html">Episode 28</a>,
+       
+       <a href="MAHABHARATA/Episode29.html">Episode 29</a>,
+     
+       <a href="MAHABHARATA/Episode30.html">Episode 30</a>,
+      
+       <a href="MAHABHARATA/Episode31.html">Episode 31</a>,
+     
+       <a href="MAHABHARATA/Episode32.html">Episode 32</a>,
+      
+       <a href="MAHABHARATA/Episode33.html">Episode 33</a>,
+     
+       <a href="MAHABHARATA/Episode34.html">Episode 34</a>,
+       
+       <a href="MAHABHARATA/Episode35.html">Episode 35</a>,
+    
+       <a href="MAHABHARATA/Episode36.html">Episode 36</a>,
+       
+       <a href="MAHABHARATA/Episode37.html">Episode 37</a>,
+     
+       <a href="MAHABHARATA/Episode38.html">Episode 38</a>,
+       <a href="MAHABHARATA/Episode39.html">Episode 39</a>,
+       <a href="MAHABHARATA/Episode40.html">Episode 40</a>,
+       <a href="MAHABHARATA/Episode41.html">Episode 41</a>,
+       <a href="MAHABHARATA/Episode42.html">Episode 42</a>,
+       <a href="MAHABHARATA/Episode43.html">Episode 43</a>,
+       <a href="MAHABHARATA/Episode44.html">Episode 44</a>,
+       <a href="MAHABHARATA/Episode45.html">Episode 45</a>,
+       <a href="MAHABHARATA/Episode46.html">Episode 46</a>,
+       <a href="MAHABHARATA/Episode47.html">Episode 47</a>,
+       <a href="MAHABHARATA/Episode48.html">Episode 48</a>,
+       <a href="MAHABHARATA/Episode49.html">Episode 49</a>,
+       <a href="MAHABHARATA/Episode50.html">Episode 50</a>,
+       <!-- Episode links will be dynamically added here -->
+    <!--</ul> -->
+</div> 
+<!--
+<div class="navigation">
+    <button onclick="goToFirst()">First</button>
+    <button onclick="goToPrevious()">Previous</button>
+    <button onclick="goToNext()">Next</button>
+    <button onclick="goToLast()">Last</button>
+</div>
+
+<script>
+    const episodes = 33; // Total number of episodes
+    let currentEpisode = 1; // Track the current episode
+    const episodeList = document.getElementById('episodes');
+
+    // Create the episode links
+    for (let i = 1; i <= episodes; i++) {
+        const li = document.createElement('li');
+        const link = document.createElement('a');
+        link.href = `MAHABHARATA/episode${i}.html`; // Assumes the files are named episode1.html, episode2.html, etc.
+        link.innerText = `Episode ${i}`;
+        li.appendChild(link);
+        episodeList.appendChild(li);
+    }
+
+    // Functions for navigation buttons
+    function goToFirst() {
+        currentEpisode = 1;
+        window.location.href = `episode${currentEpisode}.html`;
+    }
+
+    function goToPrevious() {
+        if (currentEpisode > 1) {
+            currentEpisode--;
+            window.location.href = `episode${currentEpisode}.html`;
+        }
+    }
+
+    function goToNext() {
+        if (currentEpisode < episodes) {
+            currentEpisode++;
+            window.location.href = `episode${currentEpisode}.html`;
+        }
+    }
+
+    function goToLast() {
+        currentEpisode = episodes;
+        window.location.href = `episode${currentEpisode}.html`;
+    }
+</script> -->
+
+<div class="button-container">
+    <a href="\HTML\MAHABHARATA.html" class="button">First</a>
+    <a href="\HTML\MAHABHARATA.html" class="button">Previous</a>
+      <a href="\HTML\MAHABHARATA\episode1.html" class="button">Next</a>
+      <a href="\HTML\MAHABHARATA\episode48.html" class="button">Last</a>
+     
+  </div>
+
+ </body>
+    </head>
+</html>
